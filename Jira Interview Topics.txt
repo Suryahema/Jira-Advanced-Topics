@@ -1,0 +1,4 @@
+Installation JiraDataCenter Done
+JiraDataCenter in AWS Done
+Linux cmds Done
+Git WIP
