@@ -4,5 +4,7 @@ Linux cmds Done
 Git & Git hub & Bitbucket WIP
 Migrations and upgradations WIP
 
+Confluence added
+
 
 
