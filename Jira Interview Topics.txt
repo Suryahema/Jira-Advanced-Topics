@@ -3,6 +3,8 @@ JiraDataCenter in AWS Done
 Linux cmds Done
 Git & Git hub & Bitbucket WIP
 Migrations and upgradations WIP
+test 1
+test 2
 
 
 
