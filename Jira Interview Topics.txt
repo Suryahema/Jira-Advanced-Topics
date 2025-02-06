@@ -3,6 +3,10 @@ JiraDataCenter in AWS Done
 Linux cmds Done
 Git & Git hub & Bitbucket WIP
 Migrations and upgradations WIP
+JDC each user cost please?
+
+Branch
+Added content from the atlassian branch
 
 
 
